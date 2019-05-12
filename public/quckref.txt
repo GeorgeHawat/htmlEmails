@@ -1,0 +1,28 @@
+<table class="sync-colunm" width="33.33%" align="left" border="0" cellspacing="0" cellpadding="0" 
+style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;">
+
+------------------------------------------------------
+
+              <!-- start of left colunm "notify"" -->
+              <table class="notify-colunm" width="33.33%" align="left" border="0" cellspacing="0" cellpadding="0" style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; padding: 15px 0px 60px 30px;">
+                <tr>
+                  <td>
+                    <table class="notify-title" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="30%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/bell_icon.png" alt=""></td>
+                        <td width="70%" style="padding: 0 0 0 0px; font-size: 13px; font-weight: 600;">NOTIFY</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p style="font-size: 13px; color: #7f8887; width: 100%; line-height: 2; margin-top: 5px;">Cras mattis consectetur purus sit fermentum</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td><a href="#" style="text-decoration: none; color: #2792ec; font-size: 14px;">Learn more</a></td>
+                </tr>
+              </table>
+              <!-- end of left colunm "notify"" -->
+
