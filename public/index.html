@@ -8,7 +8,7 @@
       /* DESKTOP */
       @media only screen and (min-width:961px){
       .container{width: 960px;}
-      .header-left{padding: 15px 50px 86px 150px !important;}
+      .header-left{padding: 15px 50px 86px 80px !important;}
       .header-img img{width: 45% !important;}
       .letsYou-header{padding: 0 60px;}
       .one-app-img-row img{ max-width: 611px !important;}
@@ -21,6 +21,7 @@
       .responsive-retina-row{padding: 0 50px;}
       .skins-preformance-row{padding: 10px 50px;}
       .menus-social-row{padding: 0 50px;}
+      .media-icons{width: 30% !important;}
       }
       /* MIDSIZES */
       @media only screen and (max-width:960px){
@@ -33,38 +34,46 @@
       body{margin: 0;}
       @media only screen and (max-width:600px){
       .container{width: 100% !important; }
-      .header-left{width: 100% !important; padding-right: 80px !important;}
+      .header-left{width: 100% !important; padding-right: 80px !important; padding-left: 35px !important;}
       .header-right{width: 100% !important;}
       .header-img img{width: 50% !important;}
-      .notify-colunm{width: 50%;}
-      .notify-info{padding: 0 15px 0 0;}
-      .share-colunm{width: 50%;}
-      .share-info{padding: 0 15px 0 0;}
-      .connect-colunm{width: 100% !important; padding: 0 !important}
-      .connect-title{width: 50%;}
-      .connect-info {width: 100% !important; padding: 0 50px 0 25px;}
-      .connect-info p{width: 50% !important; margin: 0 auto;}
-      .connect-learn-more{width: 100% !important; text-align: center; padding-bottom: 70px;}
-      .connect-learn-more a{width: 50% !important; padding-right: 30px;}
+      .notify-colunm{width: 100% !important; padding: 10px 50px 15px !important;}
+      .notify-colunm .icon{padding-left: 0px !important; width: 10% !important;} 
+      .share-colunm{width: 100% !important; padding: 0 50px 15px !important;}
+      .share-colunm .icon{padding-left: 0px !important; width: 10% !important;}
+      .connect-colunm{width: 100% !important; padding:  0 50px 50px !important;}
+      .connect-colunm .icon{padding-left: 0px !important; width: 10% !important;}     
       .advanced-img{width: 100%; border-radius: 0 !important;}
       .advanced-left{width: 100%; text-align: center; padding: 10px 0 0 !important;}
       .advanced-right{width: 100%; text-align: center; padding: 30px 0 50px !important; }
       .apple-store-icon{text-align: center !important;}
       .play-store-icon{text-align: center !important;}
       .one-sync-colunm{width: 100%; padding: 50px 15px 0 !important;}
+      .one-sync-colunm img{width: 70%;}
+      .one-share-colunm img{width: 70%;}
+      .one-stats-colunm img{width: 70%;}
       .apple-store-icon img{margin-right: 0;}
       .play-store-icon img{margin-left: 0;}
       .sync-img-title{width: 80%;}
+      .one-app-header{padding: 0 50px !important;}
+      .one-app-header h2{font-size: 21px !important; padding: 40px 0 0 0 !important;}
       .one-share-colunm{width: 100%; padding: 50px 15px 0 !important;}
       .share-img-title{width: 80%;}
       .one-stats-colunm{width: 100%; padding: 50px 15px 50px !important;}
       .stats-img-title{width: 80%;}
-      .responsive-colunm{width: 100% !important; padding: 0 50px !important;}
-      .responsive-colunm .icon{padding-left: 30px !important;}
-      .responsive-info{text-align: center;}
-      .retina-colunm{width: 100% !important; padding: 0 50px !important;}
-      .retina-colunm .icon{padding-left: 51px !important;}
-      .retina-info{text-align: center;}
+      .responsive-colunm{width: 100% !important; padding: 30px 50px 15px !important;}
+      .responsive-colunm .icon{padding-left: 0px !important;width: 10%;}
+      .retina-colunm{width: 100% !important; padding: 0 50px 15px !important;}
+      .retina-colunm .icon{padding-left: 0px !important;width: 10%;}
+      .skins-colunm{width: 100% !important; padding: 0 50px 15px !important;}
+      .skins-colunm .icon{padding-left: 0px !important;width: 10%;}
+      .preformance-colunm{width: 100% !important; padding: 0 50px 15px !important;}
+      .preformance-colunm .icon{padding-left: 0px !important;width: 10%;}
+      .user-colunm{width: 100% !important; padding: 0 50px 15px !important;}
+      .user-colunm .icon{padding-left: 0px !important;width: 10%;}
+      .social-colunm{width: 100% !important; padding: 0 50px 30px !important;}
+      .social-colunm .icon{padding-left: 0px !important;width: 10%;}
+      .media-icons{width: 60% !important;}
       }
     </style>
   </head>
@@ -138,7 +147,7 @@
                   <td>
                     <table class="notify-title" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
                       <tr>
-                        <td width="30%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/bell_icon.png" alt=""></td>
+                        <td class="icon" width="30%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/bell_icon.png" alt=""></td>
                         <td width="70%" style="padding: 0 0 0 0px; font-size: 13px; font-weight: 600;">NOTIFY</td>
                       </tr>
                     </table>
@@ -161,7 +170,7 @@
                       <td>
                         <table class="share-title" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
                           <tr>
-                            <td width="30%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/share_icon2.png" alt=""></td>
+                            <td class="icon" width="30%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/share_icon2.png" alt=""></td>
                             <td width="70%" style="padding: 0 0 0 0px; font-size: 13px; font-weight: 600;">SHARE</td>
                           </tr>
                         </table>
@@ -184,7 +193,7 @@
                     <td>
                       <table class="connect-title" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
                         <tr>
-                          <td width="30%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/wifi_icon.png" alt=""></td>
+                          <td class="icon" width="30%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/wifi_icon.png" alt=""></td>
                           <td width="70%" style="padding: 0 0 0 0px; font-size: 13px; font-weight: 600;">CONNECT</td>
                         </tr>
                       </table>
@@ -416,7 +425,7 @@
                   <td>
                     <table class="skins-title" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
                       <tr>
-                        <td width="20%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/check_icon.png" alt=""></td>
+                        <td class="icon" width="20%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/check_icon.png" alt=""></td>
                         <td width="80%" style="padding: 0 0 0 0px; text-align: left; font-size: 13px; font-weight: 600;">VARIOUS SKINS</td>
                       </tr>
                     </table>
@@ -436,7 +445,7 @@
                   <td>
                     <table class="preformance-title" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
                       <tr>
-                        <td width="20%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/settings_icon.png" alt=""></td>
+                        <td class="icon" width="20%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/settings_icon.png" alt=""></td>
                         <td width="80%" style="padding: 0 0 0 0px; text-align: left; font-size: 13px; font-weight: 600;">GREAT PREFORMANCE</td>
                       </tr>
                     </table>
@@ -459,7 +468,7 @@
                   <td>
                     <table class="user-title" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
                       <tr>
-                        <td width="20%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/check_icon.png" alt=""></td>
+                        <td class="icon" width="20%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/menu_icon.png" alt=""></td>
                         <td width="80%" style="padding: 0 0 0 0px; text-align: left; font-size: 13px; font-weight: 600;">USERFRIENDLY MENUS</td>
                       </tr>
                     </table>
@@ -479,7 +488,7 @@
                   <td>
                     <table class="social-title" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
                       <tr>
-                        <td width="20%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/settings_icon.png" alt=""></td>
+                        <td class="icon" width="20%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/share_icon.png" alt=""></td>
                         <td width="80%" style="padding: 0 0 0 0px; text-align: left; font-size: 13px; font-weight: 600;">SOCIAL SHARE</td>
                       </tr>
                     </table>
