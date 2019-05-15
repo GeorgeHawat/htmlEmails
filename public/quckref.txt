@@ -1,28 +1,24 @@
-<table class="sync-colunm" width="33.33%" align="left" border="0" cellspacing="0" cellpadding="0" 
-style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;">
-
-------------------------------------------------------
-
-              <!-- start of left colunm "notify"" -->
-              <table class="notify-colunm" width="33.33%" align="left" border="0" cellspacing="0" cellpadding="0" style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; padding: 15px 0px 60px 30px;">
-                <tr>
-                  <td>
-                    <table class="notify-title" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
-                      <tr>
-                        <td width="30%" style="padding: 6px 0 0 0; text-align: left;"><img src="/img/bell_icon.png" alt=""></td>
-                        <td width="70%" style="padding: 0 0 0 0px; font-size: 13px; font-weight: 600;">NOTIFY</td>
-                      </tr>
-                    </table>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <p style="font-size: 13px; color: #7f8887; width: 100%; line-height: 2; margin-top: 5px;">Cras mattis consectetur purus sit fermentum</p>
-                  </td>
-                </tr>
-                <tr>
-                  <td><a href="#" style="text-decoration: none; color: #2792ec; font-size: 14px;">Learn more</a></td>
-                </tr>
-              </table>
-              <!-- end of left colunm "notify"" -->
-
+https://i.postimg.cc/zf3YP63G/iwatch1-min.jpg
+https://i.postimg.cc/1540XKgN/appstore.png
+https://i.postimg.cc/cLnQM4Bx/arm3.jpg
+https://i.postimg.cc/nc54DQ7S/bell-icon.png
+https://i.postimg.cc/LXHLpkK5/check-icon.png
+https://i.postimg.cc/xdVLsD6K/facebook-icon.png
+https://i.postimg.cc/Jh3Zv6FS/google-icon.png
+https://i.postimg.cc/4x6YxK19/iwatch-Share.gif
+https://i.postimg.cc/NMpTfyB4/iwatch-Stats.jpg
+https://i.postimg.cc/8ccvF1CV/iwatch-Sync.jpg
+https://i.postimg.cc/QNY52W6N/linkedin-icon.png
+https://i.postimg.cc/XqPCdTZB/logo.png
+https://i.postimg.cc/BQ8D4QyT/menu-icon.png
+https://i.postimg.cc/7YTCjtGX/one-app.jpg
+https://i.postimg.cc/5NZz0WdZ/phone-icon.png
+https://i.postimg.cc/BnHKP7Jt/phone-icon-48.png
+https://i.postimg.cc/Bv31T5vp/pinterest-icon.png
+https://i.postimg.cc/XJHG6Tk1/playstore.png
+https://i.postimg.cc/G2h8NcGs/settings-icon.png
+https://i.postimg.cc/prm9Wq0W/share-icon.png
+https://i.postimg.cc/bvRS3GDh/share-icon2.png
+https://i.postimg.cc/C59Rzktj/twitter-icon.png
+https://i.postimg.cc/59rY7W06/wifi-icon.png
+https://i.postimg.cc/K8SKb7tb/youtube-icon.png
